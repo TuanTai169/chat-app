@@ -7,4 +7,4 @@ Demo ứng dụng chat-app sử dụng NodeJs, ExpressJS, socket.io
 1.  Clone this repository
 2.  Install dependencies using below command "npm install"
 3.  npm i nodemon --save-dev
-4.  npm run server
+4.  npm run dev
